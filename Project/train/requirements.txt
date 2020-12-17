@@ -1,0 +1,9 @@
+pandas
+numpy
+sagemaker-training
+sagemaker_containers
+nltk
+beautifulsoup4
+html5lib
+sagemaker_containers
+transformers
